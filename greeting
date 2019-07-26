@@ -1,0 +1,4 @@
+print('Hello!')
+print('How is your test?')
+print('What did you study last night?')
+print('Please tell me!')
